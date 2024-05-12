@@ -1,2 +1,2 @@
 # Wika
-it's my friend Wika's personal about me website
+it's my friend Wika's personal "about me" website
